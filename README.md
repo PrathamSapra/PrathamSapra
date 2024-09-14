@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Pratham Sapra and I'm an AI Enthusiast from Canada</h3>
+<h3 align="left">My name is Pratham Sapra and I'm an AI Enthusiast</h3>
 
 ###
 
