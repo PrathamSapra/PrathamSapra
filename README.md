@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Pratham Sapra and I'm a AI Enthusiast, from Canada</h3>
+<h3 align="left">My name is Pratham Sapra and I'm an AI Enthusiast from Canada</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning french  and Artificial Intelligence🤖</p>
+<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning French 🍟 and Artificial Intelligence 🤖</p>
 
 ###
 
@@ -42,23 +42,27 @@
 
 ###
 
-<img align="right" height="250" src="https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif"  />
+<div align="left">
+  <h3>🎯 Goals:</h3>
+  <ul>
+    <li>Live in a cold place ❄</li>
+  </ul>
+  <img align="right" height="250" src="https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif" />
+</div>
 
 ###
 
 <div align="left">
   <a href="https://www.youtube.com/@Pratham_Sapra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
   <a href="https://www.instagram.com/pratham.xo_?igsh=MW14MDB6Zm1pdHRpNQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathamssapra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/prathamsapra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-###
