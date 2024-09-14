@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning French 🍟 and Artificial Intelligence 🤖</p>
+<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning French 🍟 and Artificial Intelligence 🤖<br>🎯 Goals: Live in a cold place ❄</p>
 
 ###
 
@@ -43,10 +43,6 @@
 ###
 
 <div align="left">
-  <h3>🎯 Goals:</h3>
-  <ul>
-    <li>Live in a cold place ❄</li>
-  </ul>
   <img align="right" height="250" src="https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif" />
 </div>
 
