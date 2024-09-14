@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1726344013~exp=1726347613~hmac=04786c30105c6dcfd2e09d3cc6f1e937e07c06af33005ce3014fa855ce0558f5&w=1060" />
+<div align="center">
+  <img align="right" height="150" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1726344013~exp=1726347613~hmac=04786c30105c6dcfd2e09d3cc6f1e937e07c06af33005ce3014fa855ce0558f5&w=1060" alt="Profile Picture" />
+</div>
 
 ###
 
@@ -47,9 +49,10 @@
 
 ###
 
-This Code is working but it does not have my name links and pics
+<p align="center">
+  My GitHub link is <a href="https://github.com/PrathamSapra" target="_blank">PrathamSapra</a>
+</p>
 
-My GitHub link is [PrathamSapra](https://github.com/PrathamSapra)
+###
 
-### 
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
