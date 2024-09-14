@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning French 🍟 and Artificial Intelligence 🤖<br>🎯 Goals: Make this world a better place to live in ❄</p>
+<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning French 🍟 and Artificial Intelligence 🤖<br>🎯 I want to make this world a better place to live in ❄</p>
 
 ###
 
