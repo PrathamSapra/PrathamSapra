@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> 👀Creating bugs since forever<br>📚 I'm currently learning and building Artificial Intelligence | Cloud | French  <br>🎯 I want to make this world a better place to live in </p>
+<p align="left"> 💡 Passionate about solving real-world problems with technology<br>📚 I'm currently learning and building Artificial Intelligence | Cloud | French  <br>🎯 I want to make this world a better place to live in </p>
 
 ###
 
