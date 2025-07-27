@@ -65,12 +65,9 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake Animation
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Light Mode" />
+  <img src="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark Mode" />
-</p>
