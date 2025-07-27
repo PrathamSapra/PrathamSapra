@@ -62,3 +62,15 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
+---
+
+### 🐍 GitHub Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Light Mode" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark Mode" />
+</p>
