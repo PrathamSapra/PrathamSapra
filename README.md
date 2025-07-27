@@ -64,17 +64,17 @@
 
 ### My GitHub Contributions
 
-<!--
-Snake Game
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
--->
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/PrathamSapra/PrathamSapra/main/pacman-contribution-graph.svg">
 </picture>
-
+-->
 
