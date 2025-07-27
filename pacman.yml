@@ -1,0 +1,28 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate-pacman:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate pacman animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: PrathamSapra
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+          theme: pacman
+
+      - name: Push SVG to output/
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "⚡ Generate Pacman contribution graph"
+          add: 'output/*.svg'
